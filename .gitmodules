@@ -2,3 +2,6 @@
 	path = firmware/lvgl
 	url = https://github.com/lvgl/lvgl
 	branch = release/v8.4
+[submodule "firmware/freertos_kernel"]
+	path = firmware/freertos_kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
